@@ -1,12 +1,12 @@
 # King County Real Estate Linear Regression Model
 
-Authors: Forrest Williams and Jamie Carnevale
+Authors: Sam Williams and Jamie Carnevale
 
 ## Overview
 
 Hello Real Estate Investment Firm! We have creeated a predictive model for you that can help with your investment decisions!
 
-## Business Undersatnding
+## Business Understanding
 
 Modelling various factors with price in King County, Washington can help investment firms evaluated purchase opportunities for specific properties. It can also help make decisions on localities to purchase within.
 
