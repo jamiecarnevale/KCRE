@@ -56,10 +56,23 @@ These areas give room to increase square feet living and therefore room to incre
 
 Depending on the size of the investment you would like to make, we have data on which areas are most and least correlated to price. The zip code "98039" (Which corresponds to Medina) is by far the zip code that is the most highly correlated with price. This would be a great area to invest if you are looking for big budget investments.
 
-![weights2](./images/weights2.png)
+![weights1](./images/weights1.png)
 
 
 ## Predicted Price by Zip Code
 
-We can use our model to predict the price of a home according to a certain zip code. This data should be similar to actual data,
+We can use our model to predict the price of a home according to a certain zip code. This data should be similar to actual data, but in actually is our predicted data. Let's take a quick look at a heat map that separates areas in King County by zip code and color codes according to predicted price.
+
+![heatmap](./images/heatmap2.png)
+
+As expected, Medina is the lightest and therefore the area with the highest predicted home values.
+
+## Conclusion
+
+Our model, based on a variety of factors, can accurately predict price based on factors such as the area you are interested in
+* This can help in determining whether or not a property is undervalued or overvalued
+Next Steps:
+* Add more data to model to boost its accuracy
+* Create an web application with a clean input output system that is user friendly and interactable
+* Create more predictions based off the variables we have in our model
 
