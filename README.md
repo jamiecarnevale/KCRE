@@ -23,5 +23,43 @@ From these various features, we noticed some factors are more important than oth
 * grade
 * waterfront
 
+![weights2](./images/weights2.png)
+* note: zip code was not included in this graph even though it is highly correlated
 
-![weights]((./images/weights1.png))
+## Value Add: We can model increases and decreases in price based on what factors you would like to change
+
+### For Example
+
+A 3BR2BA
+2270 SqFt 
+
+Predicted sale price: $724758.07
+Sale Price (Additional Bathroom): $730039.94
+Sale Price (Additional 200 sqft): $747086.14
+
+## Further Value Add
+
+We mentioned square feet living is an important predictor of price
+
+The 5 highest average lot sizes in square feet are close to these areas:
+
+RAVENSDALE    149013
+FALL CITY      95806
+VASHON         92571
+CARNATION      79717
+ENUMCLAW       68958
+DUVALL         57428
+
+These areas give room to increase square feet living and therefore room to increase the value of property.
+
+## 3 Zip Codes Most and Least Correlated with Price
+
+Depending on the size of the investment you would like to make, we have data on which areas are most and least correlated to price. The zip code "98039" (Which corresponds to Medina) is by far the zip code that is the most highly correlated with price. This would be a great area to invest if you are looking for big budget investments.
+
+![weights2](./images/weights2.png)
+
+
+## Predicted Price by Zip Code
+
+We can use our model to predict the price of a home according to a certain zip code. This data should be similar to actual data,
+
