@@ -71,6 +71,7 @@ As expected, Medina is the lightest and therefore the area with the highest pred
 
 Our model, based on a variety of factors, can accurately predict price based on factors such as the area you are interested in
 * This can help in determining whether or not a property is undervalued or overvalued
+
 Next Steps:
 * Add more data to model to boost its accuracy
 * Create an web application with a clean input output system that is user friendly and interactable
